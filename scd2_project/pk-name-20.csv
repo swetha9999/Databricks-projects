@@ -1,0 +1,21 @@
+﻿pk,name,email,city,status,event_time
+C001,Alice,alice@example.com,Hyderabad,Active,6/9/2026 10:15
+C001,Alice,alice@example.com,Hyderabad,Inactive,6/24/2026 9:30
+C002,Bob,bob@example.com,Chennai,Active,6/14/2026 14:00
+C002,Bob,bob@example.com,Chennai,Active,6/24/2026 11:45
+C003,Charlie,charlie@example.com,Bangalore,Active,6/17/2026 8:20
+C004,Diana,diana@example.com,Mumbai,Active,6/21/2026 17:10
+C005,Ethan,ethan@example.com,Pune,Active,6/10/2026 12:00
+C006,Fiona,fiona@example.com,Delhi,Active,6/12/2026 15:30
+C007,George,george@example.com,Kolkata,Active,6/13/2026 9:45
+C008,Hannah,hannah@example.com,Jaipur,Active,6/15/2026 16:20
+C009,Ian,ian@example.com,Lucknow,Active,6/16/2026 18:05
+C010,Julia,julia@example.com,Vizag,Active,6/18/2026 20:40
+C011,Kevin,kevin@example.com,Kochi,Active,6/19/2026 11:25
+C012,Laura,laura@example.com,Mysore,Active,6/20/2026 13:50
+C013,Mike,mike@example.com,Trichy,Active,6/21/2026 9:10
+C014,Nina,nina@example.com,Surat,Active,6/22/2026 7:55
+C015,Oscar,oscar@example.com,Patna,Active,6/23/2026 14:35
+C016,Priya,priya@example.com,Nagpur,Active,6/23/2026 19:00
+C017,Rahul,rahul@example.com,Noida,Active,6/24/2026 8:25
+C018,Sara,sara@example.com,Gurgaon,Active,6/24/2026 10:50

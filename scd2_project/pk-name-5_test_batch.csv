@@ -1,0 +1,10 @@
+pk,name,email,city,event_time,status,device_type,session_id
+C001,Alice,alice_updated@example.com,Bangalore,6/26/2026 9:30,active,mobile,SESS1001
+C001,Alice,alice_updated@example.com,Bangalore,6/26/2026 9:31,active,mobile,SESS1002
+C002,Bob,bob@example.com,Pune,6/25/2026 9:15,active,web,SESS1003
+C019,Tanvi,tanvi@example.com,Indore,6/25/2026 10:00,active,web,SESS1004
+C022,Rohit,rohit@example.com,Chennai,6/26/2026 11:00,active,mobile,SESS1005
+C023,Kavya,kavya@example.com,Hyderabad,6/26/2026 11:15,active,web,SESS1006
+C024,,neha@example.com,Delhi,6/26/2026 11:30,active,mobile,SESS1007
+C025,Suresh,suresh@example.com,Lucknow,13/26/2026 12:00,active,web,SESS1008
+C026,Anita,anita@example.com,Nagpur,,active,mobile,SESS1009

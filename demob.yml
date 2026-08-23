@@ -1,0 +1,28 @@
+bundle:
+  name: json11
+
+resources:
+  jobs:
+    json_job:
+      name: json-job
+      tasks:
+        - task_key: run_json
+          notebook_task:
+            notebook_path: ./json_data11   # adjust if notebook is inside a folder
+          # optional: specify cluster
+          existing_cluster_id: <your-cluster-id>
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://dbc-7f8a244c-a27d.cloud.databricks.com
+
+  prod:
+    mode: production
+    workspace:
+      host: https://dbc-7f8a244c-a27d.cloud.databricks.com
+      root_path: /Users/lalithaswetha09@gmail.com/.bundle/${bundle.name}/${bundle.target}
+    run_as:
+      user_name: lalithaswetha09@gmail.com

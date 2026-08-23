@@ -1,0 +1,16 @@
+bundle:
+  name: json-demo
+
+resources:
+  jobs:
+    json_job:
+      name: json-job
+      tasks:
+        - task_key: run_json
+          notebook_task:
+            notebook_path: ./json_data11   # adjust if notebook is inside a folder
+
+targets:
+  dev:
+    workspace:
+      host: https://dbc-7f8a244c-a27d.cloud.databricks.com
